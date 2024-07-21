@@ -2,4 +2,5 @@ Lista pakietów w repo MTOS:
 main - pakiet testowy
 pspecs - informacje o telefonach - Made by szaq
 telefony - to samo co wyrzej ale inne modele
+reload - Narzędzie do przeładowywania pluginów - Made by Lubie cie
 Note: Tą liste widać tylko na MTOS 5.0 alpha 2 i nowsze.
