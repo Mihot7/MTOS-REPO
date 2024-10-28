@@ -3,4 +3,5 @@ main - pakiet testowy
 Telefony - informacje o telefonach - Made by szaq
 reload - Narzędzie do przeładowywania pluginów - Made by Lubie cie
 debug_tools - Narzędzia do debugowania
+debug_enabler - Odpala debug podczas pracy systemu, przydatne dla wersji 8.0
 Note: Tą liste widać tylko na MTOS 5.0 alpha 2 i nowsze.
